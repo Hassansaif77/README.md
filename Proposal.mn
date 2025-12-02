@@ -1,0 +1,22 @@
+The system will use a webcam to capture the user’s face, analyze it through a trained deep learning model, and identify emotions like happy, sad, angry, surprised, or neutral. Based on the detected emotion, the system will generate a suitable text response that matches the user’s mood, making human–computer interaction more natural and engaging.
+ 
+•Tools & Technologies
+- Programming Language: Python
+- Libraries: OpenCV, TensorFlow / Keras
+- Dataset: FER2013
+- GUI Framework: Tkinter or PyQt5
+- Database (Optional): SQLite
+- Packaging Tool: PyInstaller
+
+ •Main Modules
+1. Face Detection: Captures and detects face from webcam feed.
+2. Emotion Recognition: Identifies emotions using a CNN-based trained model.
+3. Response Generation: Displays predefined text-based responses for each emotion.
+4. User Interface: Shows camera view, detected emotion, and AI’s message.
+5. Data Logging (Optional): Stores emotions with timestamps for review.
+
+
+Student Name: [HASSAN SAIF]
+- Department: ADINFT Information Technology
+- Supervisor: [FAISAL SHAHZAD]
+- Institution: ISLAMA UNIVERSITY BAHAWALPUR 
